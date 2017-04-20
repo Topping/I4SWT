@@ -8,5 +8,8 @@ namespace AirtraficMonitoringSystem.Tests.Unit
 {
     public class Class1
     {
+        public Class1() {
+            var asdad = "asdsad";
+        }
     }
 }
